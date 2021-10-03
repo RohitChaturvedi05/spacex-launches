@@ -19,7 +19,7 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-## Adding Sceenshots
+## Sceenshots
 ## Homepage
 <img width="1416" alt="Screenshot 2021-10-03 at 5 47 39 PM" src="https://user-images.githubusercontent.com/17529530/135772700-84176298-5de3-47b0-b4ee-a1c7f066b930.png">
 
