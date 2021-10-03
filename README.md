@@ -19,6 +19,12 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
+## Enhancement
+I could have added following featues if had more time.
+* Instead of table we should use some grid with Virtualization for better performace.
+* Adding debounce on service call to avoid unnecessary calls on filters
+* Should have added more test cases for services and other components.
+
 ## Sceenshots
 ## Homepage
 <img width="1416" alt="Screenshot 2021-10-03 at 5 47 39 PM" src="https://user-images.githubusercontent.com/17529530/135772700-84176298-5de3-47b0-b4ee-a1c7f066b930.png">
